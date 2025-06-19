@@ -15,7 +15,7 @@
 📈 My Goal:
 Become a remote AI developer & freelancer helping businesses use smart tools to grow.
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/rao-hammas-a71204370)
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/rao-hammas-7aa548370)
 
 <!--
 **ai-hammas/ai-hammas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
