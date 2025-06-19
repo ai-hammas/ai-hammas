@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hammas 👋
+
+🚀 I'm a 20-year-old beginner AI developer from Pakistan, building my path into machine learning and artificial intelligence — from scratch.
+
+🔭 I’m currently learning:
+- Python
+- Data Science & Machine Learning
+- GPT and LLM-based tools
+
+🛠️ Tools I Use:
+- Python, Jupyter, Colab
+- Git, GitHub
+- OpenAI API
+
+📈 My Goal:
+Become a remote AI developer & freelancer helping businesses use smart tools to grow.
+
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/rao-hammas-a71204370)
 
 <!--
 **ai-hammas/ai-hammas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
