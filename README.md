@@ -13,7 +13,7 @@
 - OpenAI API
 
 📈 My Goal:
-Become a remote AI developer & freelancer helping businesses use smart tools to grow.
+Become an AI developer & freelancer helping businesses use smart tools to grow.
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/rao-hammas-7aa548370)
 
